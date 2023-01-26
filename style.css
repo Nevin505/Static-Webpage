@@ -1,0 +1,68 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fredoka+One&family=Gochi+Hand&family=Manrope:wght@300&family=Rowdies&family=Rubik+Bubbles&family=Rubik+Spray+Paint&family=Russo+One&display=swap');
+a{
+    text-decoration: none;
+    color: black
+}
+.top1{
+    width: 100%;
+    height: 25px;
+    background-color: black;
+    color: white;
+    padding-top: 15px;   
+}
+#f1:hover{
+    border: no;
+
+}
+.top2{
+    width: 100%;
+    background-color: aliceblue;
+    height: 35px;
+    
+}
+
+h5{
+    color:#848484;
+    font-family: sans-serif;
+}
+#p1{
+    display: inline;
+}
+#p1:hover{
+    color: orange;
+}
+.top3{
+    width: 100%;
+    height: 70px;  
+    
+}
+#top4{
+    position: relative;
+}
+img{
+    opacity: 1;
+}
+#top5{
+    position: absolute;
+    left: 5%;
+    top: 2%;
+    font-family: 'Gochi Hand', cursive;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+#top6{
+    text-align: center;
+}
+
+
+h4:hover{
+  color: orange;
+}
+#i2:hover{
+    box-shadow: 5px 10px rgb(219, 205, 205); 
+}
+i:hover{
+    color: blue;
+}
